@@ -3,6 +3,7 @@ package com.example.dominik.simplelogin;
 
 
 seid ihr alle behindert?
+ja, seid ihr
 
 import android.app.ProgressDialog;
 import android.content.Intent;
