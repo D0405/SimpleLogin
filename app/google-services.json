@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "962042076300",
+    "firebase_url": "https://logindemo-cc3ee.firebaseio.com",
+    "project_id": "logindemo-cc3ee",
+    "storage_bucket": "logindemo-cc3ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962042076300:android:86b53a240e02d9d0",
+        "android_client_info": {
+          "package_name": "com.example.dominik.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962042076300-mbusoqiadbtg4r9m7u0ie8i2ndkrjsb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dominik.simplelogin",
+            "certificate_hash": "d80ab573b555343491ea759bbf3f901e8b0affa5"
+          }
+        },
+        {
+          "client_id": "962042076300-81a575q1fr6rvt4oahnhbeb3l5tuj7bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWw3QqCn9n2mJKZ3tx0mHKL38SV2m8yI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962042076300-81a575q1fr6rvt4oahnhbeb3l5tuj7bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
