@@ -62,10 +62,10 @@
         tools:layout_editor_absoluteX="138dp" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/imBild"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/PNG_transparency_demonstration_1"
+        app:srcCompat="@drawable/cube"
         tools:layout_editor_absoluteX="300dp"
         tools:layout_editor_absoluteY="-177dp" />
 
